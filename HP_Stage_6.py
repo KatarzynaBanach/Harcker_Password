@@ -4,7 +4,6 @@
 import socket
 import sys
 import itertools
-import os
 import json
 import time
 
