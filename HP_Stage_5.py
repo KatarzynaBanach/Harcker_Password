@@ -1,6 +1,18 @@
 # Project: Password Hacker - hyperskill
 # STAGE 5 - FINAL STAGE
 
+# Task:
+# The program now catches the exception and sends a simple ‘wrong password’ message to the client even when the real password starts with current symbols.
+# We know that catching an exception takes the computer a long time, so there should be a delay in the server response when this exception takes place. 
+# You can use it to hack the system: count the time period in which the response comes and find out which starting symbols work out for the password.
+
+# Objectives:
+# In this stage, you should write a program that uses the time vulnerability to find the password.
+#   1.Use the list of logins from the previous stage.
+#   2.Output the result as you did this in the previous stage.
+
+
+
 import socket
 import sys
 import itertools
