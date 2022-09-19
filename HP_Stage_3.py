@@ -1,5 +1,5 @@
 
-# Project: Password Hacker - hyperskills
+# Project: Password Hacker - hyperskill
 # STAGE 3
 import socket
 import sys
