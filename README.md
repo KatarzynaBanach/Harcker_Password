@@ -1,5 +1,5 @@
-# Harcker_Password
-The program guesses login and password and send it to to the host using socket, trying to break in the website.At each stage another method of guessing login and password was applied (simulating improving security of website by the admin). Created while doing a course on hyperskill.org, based on general schema and guidelines provided by course author (but solutions designed on my own). It was a lot of fun and possibility to practice using of **socket module, generators, loops, dictionaries, json files.**
+##  Harcker Password
+The program guesses login and password and send it to to the host using socket, trying to break in the website.At each stage another method of guessing login and password was applied (simulating improving security of website by the admin). Created while doing a course on hyperskill.org, based on general schema and guidelines provided by course author (but solutions designed on my own). It was a lot of fun and possibility to practice using of **_socket module, generators, loops, dictionaries, json files._**
 
 **Technologies used:**
 - python
